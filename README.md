@@ -1,0 +1,2 @@
+# GUIScopeUtil_Unity
+Unityのエディター上のGUI系の一部機能を使いやすくするスコープ群
