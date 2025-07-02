@@ -1,0 +1,10 @@
+{
+  "name": "com.hw.gui_scopes",
+  "version": "1.0.0",
+  "displayName": "GUI Scopes for UnityEditor",
+  "description": "UnityEditor\u306eGUI\u7528\u306e\u4e00\u6642\u7684\u306a\u64cd\u4f5c\u3092\u5bb9\u6613\u306b\u3059\u308b\u30b9\u30b3\u30fc\u30d7\u3092\u8ffd\u52a0\u3057\u307e\u3059",
+  "unity": "2021.3",
+  "author": {
+    "name": "Wataame(HWataame)"
+  }
+}
