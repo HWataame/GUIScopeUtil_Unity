@@ -1,4 +1,4 @@
-# GUI Scopes for Unity Editor
+# GUI Scopes for UnityEditor
 ## 概要
 UnityエディターのGUI機能向けのスコープです
 
